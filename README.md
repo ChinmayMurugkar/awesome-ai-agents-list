@@ -116,6 +116,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 - [LLM Guard](https://github.com/protectai/llm-guard) — Security toolkit for LLM interactions with input/output scanners for prompt injection, PII, and toxicity.
 - [Rebuff](https://github.com/protectai/rebuff) — Self-hardening prompt injection detector with multi-layered defense.
 - [Lakera Guard](https://www.lakera.ai/) — API for protecting AI applications against prompt injections, data leakage, and harmful content.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ### Monitoring & Observability
 
