@@ -248,6 +248,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 ## Benchmarks & Evaluation
 
 - [SWE-bench](https://github.com/princeton-nlp/SWE-bench) — Benchmark for evaluating AI agents on real-world software engineering tasks.
+- [ClawBench](https://github.com/reacher-z/ClawBench) — Live-website browser-agent benchmark. 283 everyday tasks (V1 153 + V2 130) across 163 live platforms; two-stage scoring (HTTP-request interception + LLM judge on payload). [Paper](https://arxiv.org/abs/2604.08523) · [Leaderboard](https://claw-bench.com)
 - [GAIA](https://huggingface.co/gaia-benchmark) — General AI assistants benchmark with real-world questions requiring multi-step reasoning.
 - [AgentBench](https://github.com/THUDM/AgentBench) — Multi-dimensional benchmark for evaluating LLMs as agents.
 - [HumanEval](https://github.com/openai/human-eval) — OpenAI's benchmark for evaluating code generation capabilities.
