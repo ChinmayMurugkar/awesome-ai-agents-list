@@ -212,6 +212,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) — AI task management system that creates, prioritizes, and executes tasks autonomously.
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) — Open source framework for building, managing, and running autonomous AI agents.
 - [AgentGPT](https://agentgpt.reworkd.ai/) — Web-based platform for assembling, configuring, and deploying autonomous AI agents.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) — Self-hosted platform to run a team of specialized AI agents with persistent memory, a web UI, and Telegram/Slack/Discord/Matrix channels.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) — Open source platform for AI software developers as autonomous agents.
 - [Devin](https://devin.ai/) — Autonomous AI software engineer by Cognition with full development environment access.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Platform for AI-powered software development agents.
