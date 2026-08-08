@@ -94,6 +94,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Graph-based multi-agent workflows with cycles, state management, and human-in-the-loop.
 - [Swarm](https://github.com/openai/swarm) — OpenAI's experimental framework for lightweight multi-agent orchestration with handoffs and routines.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent framework that assigns different roles (PM, architect, engineer) to GPTs for collaborative software development.
+- [Orkas](https://github.com/Orkas-AI/Orkas) — Open-source, local-first desktop AI workforce where a Commander coordinates specialist agents in parallel or sequence through one chat.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) — Virtual software company powered by multiple AI agents playing different roles in the software development lifecycle.
 - [CAMEL](https://github.com/camel-ai/camel) — Framework for studying cooperative behaviors of multi-agent systems with role-playing.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) — Platform for assembling multiple agents to collaboratively accomplish tasks.
