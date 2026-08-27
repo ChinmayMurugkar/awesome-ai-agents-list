@@ -231,6 +231,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 
 - [Intercom Fin](https://www.intercom.com/fin) — AI customer service agent powered by GPT-4 with knowledge base integration.
 - [Forethought](https://forethought.ai/) — AI agent for customer support ticket resolution and workflow automation.
+- [Workforce Wave](https://www.workforcewave.com/) — AI voice agent for inbound call handling, appointment booking, and after-hours answering for service businesses.
 
 ### Data & Analytics
 
