@@ -168,6 +168,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 
 ### MCP Servers
 
+- [Agent QA](https://github.com/vostride/agent-qa) — MCP tools for authoring, validating, running, and inspecting natural-language web, Android, and iOS tests; source-available under FSL-1.1-ALv2.
 - [Model Context Protocol](https://modelcontextprotocol.io/) — Anthropic's open protocol for connecting AI models to external data sources and tools.
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) — Official collection of MCP server implementations for various services.
 - [Smithery](https://smithery.ai/) — Registry and platform for discovering and deploying MCP servers.
