@@ -97,6 +97,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 - [ChatDev](https://github.com/OpenBMB/ChatDev) — Virtual software company powered by multiple AI agents playing different roles in the software development lifecycle.
 - [CAMEL](https://github.com/camel-ai/camel) — Framework for studying cooperative behaviors of multi-agent systems with role-playing.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) — Platform for assembling multiple agents to collaboratively accomplish tasks.
+- [Tale](https://github.com/tale-project/tale) — Project workspace for manager-agent delegation, persistent task sandboxes, and shared review of agent deliverables.
 
 ### Workflow & Pipeline Tools
 
