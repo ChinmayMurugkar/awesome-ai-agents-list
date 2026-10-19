@@ -168,6 +168,7 @@ Platforms that support multiple agent frameworks through a unified interface:
 
 ### MCP Servers
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval.
 - [Model Context Protocol](https://modelcontextprotocol.io/) — Anthropic's open protocol for connecting AI models to external data sources and tools.
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) — Official collection of MCP server implementations for various services.
 - [Smithery](https://smithery.ai/) — Registry and platform for discovering and deploying MCP servers.
